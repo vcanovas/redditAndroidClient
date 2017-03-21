@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedditClient</string>
+    <string name="procesando">Procesando...</string>
+    <string name="error_item">Error al recuperar item</string>
+    <string name="detail">Detalle</string>
+    <string name="sin_conexion">Sin conexión, cargando datos locales</string>
+</resources>

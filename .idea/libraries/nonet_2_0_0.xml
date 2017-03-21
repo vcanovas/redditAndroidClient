@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="nonet-2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c738df9b3a15c7971162d9c5ef06dbf379d1e1db/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c738df9b3a15c7971162d9c5ef06dbf379d1e1db/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.keiferstone/nonet/2.0.0/5e2b71e2679832eb2bbc5c4d39283cd846879e07/nonet-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
